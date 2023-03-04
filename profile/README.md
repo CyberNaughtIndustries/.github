@@ -2,6 +2,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/CyberNaughtIndustries">
-    <img src="https://github.com/CyberNaughtIndustries/.github/tree/main/profile/pcn_images/pcn_cybernaught_industries_profile_logo.png" alt="Cybernaught Industries" width="500" height="500">
+    <img src="https://user-images.githubusercontent.com/123184999/222915372-f02b040d-15fb-4bed-85b1-5f7c71c6c172.png" alt="Cybernaught Industries" width="500" height="500">
   </a>
 </div>
